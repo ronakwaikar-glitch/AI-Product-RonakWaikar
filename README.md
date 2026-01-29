@@ -50,9 +50,9 @@ This portfolio is a continuous journey of learning and growth in AI PM. Each pro
 
 ## 🤝 Connect With Me
 
-- **GitHub**: [ronak.waikar-glitch](https://github.com/ronak.waikar-glitch)
+- **GitHub**: [ronakwaikar-glitch](https://github.com/ronakwaikar-glitch)
 - **LinkedIn**: [linkedin.com/in/ronak-waikar-627b68126](https://linkedin.com/in/ronak-waikar-627b68126)
-- **Portfolio**: [Ronak-Portfolio-PM](https://github.com/ronak.waikar-glitch/Ronak-Portfolio-PM)
+- **Portfolio**: [AI-Product-RonakWaikar](https://github.com/ronakwaikar-glitch/AI-Product-RonakWaikar)
 
 ## 📝 License
 
